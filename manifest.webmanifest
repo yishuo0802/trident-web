@@ -1,0 +1,9 @@
+{
+  "name": "Trident",
+  "short_name": "Trident",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#131210",
+  "theme_color": "#131210",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
